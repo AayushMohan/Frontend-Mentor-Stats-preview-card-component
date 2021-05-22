@@ -122,7 +122,7 @@ p {
   .container {
     gap: 1.5rem;
     width: 990px;
-    height: 368px;
+    height: 398px;
     position: relative;
     top: 160px;
     left: 200px;
@@ -132,6 +132,7 @@ p {
 
   .overlay {
     width: 500px;
+    height: 398px;
     position: relative;
     left: 489px;
   }
@@ -148,6 +149,7 @@ p {
     border-radius: initial;
     border-top-right-radius: 8px;
     border-bottom-right-radius: 8px;
+    height: 398px;
   }
 
   .footer-1 {
